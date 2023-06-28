@@ -1,0 +1,69 @@
+html,
+
+body {
+  overscroll-behavior: none;
+}
+.animation_layer.parallax {
+	position: fixed;
+}
+body {
+  font-family: Arial Black, sans-serif;
+  text-align: center;
+  background: #08071b;
+  /* height: 200vh; */
+}
+h1 {
+  color:  rgb(255, 255, 255);
+  font-family: 'Lemon/Milk', sans-serif;
+}
+p{
+  color:  rgb(255, 255, 255);
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#textblock {
+  background-color: #08071b;
+  height: 40vh; /* heigth of what is samyog div */
+  padding-bottom: 40px;
+}
+
+#textblock-container {
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+#textblock-title {
+  color: #ffffff;
+  font-size: 35px;
+  font-weight: 600;
+  font-family: "Helvetica Neue";
+}
+
+#textblock-content {
+  color: #ffaf1b;
+  font-size: 20px;
+}
+
+#textblock-footer {
+  color: #ffaf1b;
+  font-size: 15px;
+  font-weight: 400;
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
+  margin-bottom: 20px;
+
+}
+
+#textblock-devsense {
+  text-decoration: none;
+  color: #ffaf1b;
+  font-size: 15px;
+  font-weight: 600;
+}
+.hi{
+  padding-top: 40px;
+}
