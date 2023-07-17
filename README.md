@@ -1,1 +1,2 @@
-under development website for department techno-cultural fest using react 
+Home page for under development website which has parallax effect
+library used (react-plx)
